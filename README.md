@@ -44,7 +44,6 @@ We conduct various analyses on the dataset to extract meaningful insights, inclu
 - Mortality Rate
 - Visualization of Total Confirmed Cases, Deaths, and Recoveries (Bar Plot)
 
-Key visualizations include:
 
 ## Key Findings
 
