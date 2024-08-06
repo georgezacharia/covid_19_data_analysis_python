@@ -35,7 +35,7 @@ We initially explore the data to understand its structure and contents.
 
 We conduct various analyses on the dataset to extract meaningful insights, including:
 - Total Confirmed Cases
-- Tota death
+- Total death
 - Total Recovered Cases
 - Daily Confirmed Cases
 - Daily Deaths
