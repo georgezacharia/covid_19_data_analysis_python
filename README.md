@@ -33,10 +33,18 @@ We initially explore the data to understand its structure and contents.
 
 ### 4. Data Analysis
 
-We conduct various analyses on the dataset to extract meaningful insights.
-We conduct various analyses on the dataset to extract meaningful insights. Key visualizations include:
+We conduct various analyses on the dataset to extract meaningful insights, including:
+- Total Confirmed Cases
+- Total Deaths
+- Total Recovered Cases
+- Daily Confirmed Cases
+- Daily Deaths
+- Daily Recovered Cases
+- Recovery Rate
+- Mortality Rate
+- Visualization of Total Confirmed Cases, Deaths, and Recoveries (Bar Plot)
 
-- **Bar Plot of Total Confirmed Cases, Deaths, and Recoveries**: This plot visualizes the total number of confirmed cases, deaths, and recoveries in the dataset.
+Key visualizations include:
 
 ## Key Findings
 
