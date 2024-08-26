@@ -17,7 +17,7 @@ The dataset contains the following columns:
 
 - **Python**: The programming language used for the analysis.
 - **pandas**: A powerful data manipulation library in Python.
-- **Matplotlib**: A plotting library used for creating visualizations.
+- **Matplotlib & Seaborn**: A plotting library used for creating visualizations.
 - **Jupyter Notebook**: An open-source web application used to create and share documents that contain live code, equations, visualizations, and narrative text.
 
 
