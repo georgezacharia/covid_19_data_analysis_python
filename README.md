@@ -50,9 +50,6 @@ The dataset contains the following columns:
 - Recovery Rate30.46%
 - Mortality Rate7.13%
 
-##  Case Distribution
-The distribution of cases among the top ten regions:
--US, Spain, Italy, France, UK, Germany, Turkey, Russia, Iran, Mainland China
 
 ##  Mortality and Recovery Rates
     
