@@ -72,7 +72,7 @@ The dataset contains the following columns:
 - **Effectiveness of Measures**: The wide range in recovery rates (from 0.51% in the UK to 97.54% in Cambodia) suggests varying effectiveness of containment and treatment measures across regions.
 
 ## 📝 Recommendations
-- Focus on Hotspots**: Prioritize resources and support for regions with the highest number of active cases, particularly the US, Spain, and Italy.
+- **Focus on Hotspots**: Prioritize resources and support for regions with the highest number of active cases, particularly the US, Spain, and Italy.
 - **Learn from Success**: Investigate and potentially adopt strategies from regions with high recovery rates, such as Cambodia.
 - **Improve Data Collection**: Address the disparity in data completeness, as evidenced by the varying number of non-null entries across columns.
 - **Enhance Testing**: Regions with lower confirmed cases but high mortality rates may need to increase their testing capacity to identify and isolate cases early.
