@@ -42,7 +42,7 @@ The dataset contains the following columns:
 -Iran 
 -Mainland China
 
-🔑 Key Findings
+
 ##  Overall Statistics
 - Confirmed Cases3,193,886
 - Total Deaths227,638 Total
