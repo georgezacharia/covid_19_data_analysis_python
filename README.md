@@ -68,21 +68,21 @@ The distribution of cases among the top ten regions:
 
  ##  🧠 Interpretation of Findings
 
--**Global Impact** The data shows a significant global impact of COVID-19, with over 3 million confirmed cases worldwide as of April 29, 2020.
--**Varied Regional Impact**: There's a substantial variation in the impact across regions, with the US, Spain, and Italy being the most affected in terms of confirmed cases.
--**Recovery vs. Mortality**: The global recovery rate (30.46%) is higher than the mortality rate (7.13%), indicating that a significant proportion of infected individuals are recovering.
--**Healthcare System Stress**: Regions with high numbers of active cases (e.g., US with 858,222) likely face significant stress on their healthcare systems.
--**Effectiveness of Measures**: The wide range in recovery rates (from 0.51% in the UK to 97.54% in Cambodia) suggests varying effectiveness of containment and treatment measures across regions.
+- **Global Impact** The data shows a significant global impact of COVID-19, with over 3 million confirmed cases worldwide as of April 29, 2020.
+- **Varied Regional Impact**: There's a substantial variation in the impact across regions, with the US, Spain, and Italy being the most affected in terms of confirmed cases.
+- **Recovery vs. Mortality**: The global recovery rate (30.46%) is higher than the mortality rate (7.13%), indicating that a significant proportion of infected individuals are recovering.
+- **Healthcare System Stress**: Regions with high numbers of active cases (e.g., US with 858,222) likely face significant stress on their healthcare systems.
+- **Effectiveness of Measures**: The wide range in recovery rates (from 0.51% in the UK to 97.54% in Cambodia) suggests varying effectiveness of containment and treatment measures across regions.
 
 ## 📝 Recommendations
--Focus on Hotspots**: Prioritize resources and support for regions with the highest number of active cases, particularly the US, Spain, and Italy.
--**Learn from Success**: Investigate and potentially adopt strategies from regions with high recovery rates, such as Cambodia.
--**Improve Data Collection**: Address the disparity in data completeness, as evidenced by the varying number of non-null entries across columns.
--**Enhance Testing**: Regions with lower confirmed cases but high mortality rates may need to increase their testing capacity to identify and isolate cases early.
--**Global Cooperation**: Encourage sharing of best practices and resources between regions to improve overall global response.
--**Prepare Healthcare Systems**: Regions in the early stages of the outbreak should use this data to prepare their healthcare systems for potential surges in cases.
--**Public Health Measures**: Continue to emphasize the importance of public health measures such as social distancing, mask-wearing, and hand hygiene, especially in regions with rapidly increasing case numbers.
--**Monitor Recovery**: Implement systems to monitor and support recovered patients, as the long-term effects of COVID-19 are still not fully understood.
+- Focus on Hotspots**: Prioritize resources and support for regions with the highest number of active cases, particularly the US, Spain, and Italy.
+- **Learn from Success**: Investigate and potentially adopt strategies from regions with high recovery rates, such as Cambodia.
+- **Improve Data Collection**: Address the disparity in data completeness, as evidenced by the varying number of non-null entries across columns.
+- **Enhance Testing**: Regions with lower confirmed cases but high mortality rates may need to increase their testing capacity to identify and isolate cases early.
+- **Global Cooperation**: Encourage sharing of best practices and resources between regions to improve overall global response.
+- **Prepare Healthcare Systems**: Regions in the early stages of the outbreak should use this data to prepare their healthcare systems for potential surges in cases.
+- **Public Health Measures**: Continue to emphasize the importance of public health measures such as social distancing, mask-wearing, and hand hygiene, especially in regions with rapidly increasing case numbers.
+- **Monitor Recovery**: Implement systems to monitor and support recovered patients, as the long-term effects of COVID-19 are still not fully understood.
 
 
 
@@ -91,5 +91,5 @@ The distribution of cases among the top ten regions:
 </p>
 <p align="center">
   <b>Analysis by George Zacharia</b><br>
- Data Analst
+ Data Analyst
 </p>
