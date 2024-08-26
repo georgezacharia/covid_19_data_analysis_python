@@ -53,8 +53,8 @@ The dataset contains the following columns:
 
 ##  Mortality and Recovery Rates
     
--💀 **Region with the highest mortality rate**: Nicaragua (23.08%)
--💪 **Region with the highest recovery rate**: Cambodia (97.54%)
+- 💀 **Region with the highest mortality rate**: Nicaragua (23.08%)
+- 💪 **Region with the highest recovery rate**: Cambodia (97.54%)
 
 ##  Statistical Summary
 - Mean confirmed cases per region: 9,949
