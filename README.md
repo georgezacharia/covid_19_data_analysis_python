@@ -23,24 +23,24 @@ The dataset contains the following columns:
 
 ##  Regional Analysis
 **Top 5 distribution of confirmed cases by region**:
--🇺🇸 US
--🇪🇸 Spain
--🇮🇹 Italy
--🇫🇷 France
--🇬🇧 UK
+- 🇺🇸 US
+- 🇪🇸 Spain
+- 🇮🇹 Italy
+- 🇫🇷 France
+- 🇬🇧 UK
 
 ## Case Distribution
 **The distribution of cases among the top ten regions**:
--US
--Spain
--Italy
--France
--UK
--Germany 
--Turkey
--Russia
--Iran 
--Mainland China
+- US
+- Spain
+- Italy
+- France
+- UK
+- Germany 
+- Turkey
+- Russia
+- Iran 
+- Mainland China
 
 
 ##  Overall Statistics
